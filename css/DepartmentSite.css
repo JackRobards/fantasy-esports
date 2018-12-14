@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: rgb(50, 50, 50);
+    
+}
+
+.jumbotron a:link {
+   text-decoration: none;
+}
+
+.jumbotron {
+    color: rgb(200, 200, 200);
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 1px;
+}
+
+body {
+    background-color: rgb(200, 200, 200);
+    color: rgb(50, 50, 50);
+}
+
+.centered {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.dashed {
+    border-style: dashed;
+    border-color: rgb(50, 50, 50);
+}
